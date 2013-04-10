@@ -57,7 +57,7 @@
 	<item component="ComponentInfo{com.adobe.air/com.adobe.air.RemoteDebuggerListenerDialog}" drawable="adobeair" />
 	<!-- Advanced Task Killer -->
 	<item component="ComponentInfo{com.rechild.advancedtaskkiller/com.rechild.advancedtaskkiller.AdvancedTaskKiller}" drawable="atk" />
-    <item component="ComponentInfo{com.rechild.advancedtaskkillerpro/com.rechild.advancedtaskkillerpro.AdvancedTaskKiller}" drawable="atk" />
+    	<item component="ComponentInfo{com.rechild.advancedtaskkillerpro/com.rechild.advancedtaskkillerpro.AdvancedTaskKiller}" drawable="atk" />
 	<!-- ADW Launcher -->
 	<item component="ComponentInfo{org.adw.launcher/org.adw.launcherlib.Launcher}" drawable="adw"/>
 	<!-- ADW Launcher EX -->
@@ -286,6 +286,8 @@
 	<item component="ComponentInfo{net.lepeng.batterydoctor/net.lepeng.batterydoctor.MainSettingsActivity}" drawable="batterydoctor"/>
 	<!-- Battery Doctor (Battery Saver) -->
 	<item component="ComponentInfo{com.ijinshan.kbatterydoctor_en/com.ijinshan.kbatterydoctor.SplashActivity}" drawable="batterydoctor"/>
+	<!-- Battery Stats Plus -->
+	<item component="ComponentInfo{com.rootuninstaller.bstats/com.rootunistaller.bstats.BattrStatActivity}" drawable="batterystatsplus"/>
 	<!-- Battery Widget -->
 	<item component="ComponentInfo{net.hubalek.android.reborn.beta/net.hubalek.android.apps.reborn.beta.activities.MainActivityBeta}" drawable="batterywidget"/>
 	<!-- Battlenet -->
@@ -445,6 +447,8 @@
 	<item component="ComponentInfo{air.com.carmax.android/air.com.carmax.android.appentry}" drawable="carmax"/>
 	<!-- Catch -->
 	<item component="ComponentInfo{com.threebanana.notes/com.threebanana.notes.Notes}" drawable="catchnotes"/>
+	<!-- Caynax A6W -->
+	<item component="ComponentInfo{com.caynax.a6w/com.caynax.a6w.free.l}" drawable="caynaxa6w"/>
 	<!-- CDMA Tools -->
 	<item component="ComponentInfo{org.teameos.settings.device/org.teameos.settings.device.DeviceSettings}" drawable="sprinttools"/>
 	<!-- Cerberus -->
@@ -674,6 +678,8 @@
 	<item component="ComponentInfo{com.ebuddy.android/com.ebuddy.android.ui.StartupActivity}" drawable="ebuddy"/>
 	<!-- Echofon -->
 	<item component="ComponentInfo{com.echofon/com.echofon.EchofonMain}" drawable="echofon"/>
+	<!-- Electrodroid -->
+	<item component="ComponentInfo{it.android.demi.elettronica/it.android.demi.elettronica.MainElectroFree}" drawable="electrodroid"/>
 	<!-- Elixir 2 -->
 	<item component="ComponentInfo{com.bartat.android.elixir/com.bartat.android.elixir.MainActivity}" drawable="elixir2"/>
 	<!-- Email -->
@@ -844,6 +850,9 @@
 	<!-- G -->
 
 	<!-- Gadu-Gadu -->
+	<item component="ComponentInfo{pl.gadugadu/pl.gadugadu.komunikator.app.ContactListActivity}" drawable="gadugadu"/>
+	<item component="ComponentInfo{pl.gadugadu/pl.gadugadu.contactslist.ContactListActivity}" drawable="gadugadu"/>
+	<item component="ComponentInfo{pl.gadugadu.openfm/pl.gadugadu.openfm.app.OpenFMActivity}" drawable="gadugadu"/>
 	<!-- Gallery -->
 	<item component="ComponentInfo{com.cooliris.media/com.cooliris.media.Gallery}" drawable="gallery"/>
 	<item component="ComponentInfo{com.htc.album/com.htc.album.AlbumTabSwitchActivity}" drawable="gallery"/>
@@ -1134,6 +1143,8 @@
 	<!--Komik-->
 	<item component="ComponentInfo{com.komik.free/com.komik.free.activities.Splash}" drawable="komik" />
 	<item component="ComponentInfo{com.komik.free/com.komik.free.activities.Reader}" drawable="komik" />
+	<!-- Kwejk -->
+	<item component="ComponentInfo{com.appnroll.kwejk/com.appnroll.kwejk.activities.MainActivity_}" drawable="kwejk"/>
 <!-- L -->
 	<!-- LastFM -->
 	<item component="ComponentInfo{fm.last.android/fm.last.android.LastFm}" drawable="lastfm"/>
@@ -1261,6 +1272,8 @@
 	<item component="ComponentInfo{de.joergjahnke.gameboy.android.free/de.joergjahnke.gameboy.android.free.GameboyROMPickerLite}" drawable="games"/>
 	<!-- Mobile Coupons -->
 	<item component="ComponentInfo{com.aircrunch.shopalerts/com.aircrunch.shopalerts.MainActivity}" drawable="mobilecoupons"/>
+	<!-- Mobile Doc Scanner -->
+	<item component="ComponentInfo{com.stoik.mdscan/com.stoik.mdscan.MDScanActivity}" drawable="mobiledocscanner"/>
 	<!-- Mobile Odin -->
 	<item component="ComponentInfo{eu.chainfire.mobileodin.pro/eu.chainfire.mobileodin.core.MainActivity}" drawable="odin"/>
 	<!--Mobisle-->
@@ -1289,6 +1302,8 @@
 	<item component="ComponentInfo{com.flyersoft.moonreader/com.flyersoft.moonreader.ActivityMain}" drawable="moonreader"/>
 	<!-- mSecure -->
 	<item component="ComponentInfo{com.mseven.msecure/com.mseven.msecure.Launcher}" drawable="msecure"/>
+	<!-- Multibank -->
+	<item component="ComponentInfo{pl.multibank/pl.mbank.activities.StartTabActivity}" drawable="multibank"/>
 	<!-- Music -->
 	<item component="ComponentInfo{com.android.music/com.android.music.MusicBrowserActivity}" drawable="music"/>
 	<item component="ComponentInfo{com.google.android/com.google.android.music.MusicBrowserActivity}" drawable="music"/>
@@ -1860,6 +1875,8 @@
 	<item component="ComponentInfo{com.episode6.android.nycsubwaymap/com.episode6.android.nycsubwaymap.NYCSubwayMap}" drawable="subway"/>
 	<!-- Subway Surfers -->
 	<item component="ComponentInfo{com.kiloo.subwaysurf/com.kiloo.subwaysurf.RRAndroidPluginActivity}" drawable="subwaysurfers"/>
+	<!-- Sudoku Master -->
+	<item component="ComponentInfo{com.popzhang.sudoku/com.popzhang.sudoku.MainActivity}" drawable="sudokumaster"/>
 	<!--Super Status Bar -->
 	<item component="ComponentInfo{com.firezenk.ssb/com.firezenk.ssb.options4.Options}" drawable="superstatusbar"/>
 	<item component="ComponentInfo{com.firezenk.ssb/com.firezenk.ssb.options.Options}" drawable="superstatusbar"/>
@@ -2038,6 +2055,8 @@
 	<item component="ComponentInfo{com.piviandco.uglybooth/com.piviandco.app.activities.mHomeActivity}" drawable="uglybooth"/>
 	<!-- Unblock Me -->
 	<item component="ComponentInfo{com.kiragames.unblockmefree/com.kiragames.unblockmefree.UnblockMeFree}" drawable="unblockme"/>
+	<!-- Unified Remote -->
+	<item component="ComponentInfo{com.Relmtech.Remote/com.Relmtech.Remote2.Activities.MainActivity}" drawable="unifiedremote"/>
 	<!-- Update Me -->
 	<item component="ComponentInfo{com.acquariusoft.UpdateMe/com.acquariusoft.UpdateMe.UpdateMeActivity}" drawable="updateme"/>
 	<!-- Updater -->
